@@ -16,7 +16,7 @@ available at this repository.
     -->
     <plugin
             id="com.fanruan.p3c.smartfox"
-            url="https://qinyupan.top/static/Fanruan%20Java%20Coding%20Guidelines-1.5.5.2.zip"
+            url="https://github.com/QinYupan/p3c/files/10294165/Fanruan.Java.Coding.Guidelines-1.5.5.2.zip"
             version="1.5.5.2">
         <!--
         The <idea-version> element (required) must match the same element
