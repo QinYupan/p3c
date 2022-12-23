@@ -16,12 +16,13 @@ available at this repository.
     -->
     <plugin
             id="com.fanruan.p3c.smartfox"
-            url=""
+            url="https://qinyupan.top/static/Fanruan%20Java%20Coding%20Guidelines-1.5.5.2.zip"
             version="1.5.5.2">
         <!--
         The <idea-version> element (required) must match the same element
         in the plugin.xml file.
         -->
+        <name>Fanruan Java Coding Guidelines</name>
         <idea-version since-build="201.8743"/>
     </plugin>
 </plugins>
